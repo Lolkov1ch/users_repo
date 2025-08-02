@@ -44,3 +44,4 @@ urllib3_secure_extra==0.1.0
 uvloop==0.21.0
 xmlrpclib==1.0.1
 zstandard==0.23.0
+uvicorn==0.27.0
