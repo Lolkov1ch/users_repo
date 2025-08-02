@@ -1,0 +1,1 @@
+some fastapi + SQLite tests
