@@ -30,4 +30,4 @@ def create_user(username: str, email: str):
     new_user = User(user_id=new_user_id, username=username, email=email)
     users.append(new_user)
     return new_user
-    
+
